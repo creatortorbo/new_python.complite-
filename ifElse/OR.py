@@ -1,0 +1,5 @@
+# here using the OR (logical operture)
+a = int(input("Enter a fist number : "))
+b = int(input("Enter a second number : "))
+c = int(input("Enter a third number : "))
+if a > b or a > c : print("At least one of the condition is true") 
